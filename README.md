@@ -2,6 +2,8 @@
 
 Desarrollo de la Tarea 1 de Computación Paralela y Distribuida.
 
+Objetivo Tarea: Crear un programa que obtuviera las variables de entorno del sistema donde se ejecute y se guarde en un archivo de texto plano.
+
 Integrantes del grupo:
  - Constanza Jazme.
  - Mauricio González.
