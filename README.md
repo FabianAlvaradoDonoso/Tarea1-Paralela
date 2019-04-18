@@ -11,11 +11,11 @@ Integrantes del grupo:
 
 # Ejecución
 
-## Linux
+## Linux / MacOs
 
  1. Abrir una terminal y dirigirse a la ubicacion del archivo **main.c**
- 2. Compilar con: `gcc main.c`
- 3. Ejecutar con: `./a.out`
+ 2. Compilar con: `gcc -o ejecutableEnv main.c`
+ 3. Ejecutar con: `./ejecutableEnv`
 > Los resultados quedan en un archivo en la misma carpeta del
 >                      proyecto,    archivo llamado **archivoENV.txt**.
 
